@@ -1,0 +1,7 @@
+Flask
+matplotlib
+joblib
+seaborn
+pandas
+stramlit
+numpy
