@@ -3,5 +3,7 @@ matplotlib
 joblib
 seaborn
 pandas
-stramlit
+numpy
+streamlit
+scikit-learn
 numpy
