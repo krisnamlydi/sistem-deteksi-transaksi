@@ -41,7 +41,7 @@ st.markdown("---")
 with st.sidebar:
     st.header("⚙️ Konfigurasi Sistem")
     st.write("Unggah dataset untuk memulai siklus pemrosesan.")
-    uploaded_file = st.file_uploader("Upload data_transaksi_dummy.csv", type="csv")
+    uploaded_file = st.file_uploader("Upload data_transaksi.csv", type="csv")
     
     st.markdown("---")
     st.info("Sistem ini menggunakan algoritma **Random Forest** untuk mendeteksi anomali pada arus kas.")
